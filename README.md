@@ -32,17 +32,17 @@ The script uses the following variables to achieve its functionality:
 
 ## Using the Script
 
-1. Copy the script into a file with a `.sh` extension, e.g., `reencrypt-disks.sh`.
+1. Copy the script into a file with a `.sh` extension, e.g., `gcp-cmek-rotation.sh`.
 2. Open a command line or terminal.
 3. Make sure you're logged in to your Google Cloud account by running `gcloud auth login`.
 4. Navigate to the directory where the script file is located.
 5. Provide execution permission to the script using the following command:
    ```
-   chmod +x reencrypt-disks.sh
+   chmod +x gcp-cmek-rotation.sh
    ```
 6. Run the script using the following command:
    ```
-   ./reencrypt-disks.sh
+   ./gcp-cmek-rotation.sh
    ```
 
 Ensure that you comprehend the actions that the script will execute on your resources. Customize the script to suit your specific needs before running it. Feel free to adjust the links and instructions to match your particular requirements and environment.
