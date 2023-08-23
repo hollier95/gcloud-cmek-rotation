@@ -46,3 +46,13 @@ The script uses the following variables to achieve its functionality:
    ```
 
 Ensure that you understand the actions that the script will execute on your resources. Customize the script to suit your specific needs before running it. Feel free to adjust the links and instructions to match your particular requirements and environment.
+
+## Automation Possibilities
+
+You can further enhance the automation of this script using Google Cloud's services:
+
+- **Cloud Functions**: Convert this script into a Cloud Function that can be triggered in response to various events. For instance, you could trigger it based on Pub/Sub messages or HTTP requests. This allows you to automate the reencryption process without manual intervention.
+
+- **Cloud Scheduler**: Schedule the execution of the Cloud Function or a direct script invocation using Cloud Scheduler. You can set up regular intervals to reencrypt disks, ensuring ongoing data security.
+
+These options provide more advanced automation and scheduling capabilities, allowing you to seamlessly integrate this reencryption process into your infrastructure management workflow.
