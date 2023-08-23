@@ -45,6 +45,4 @@ The script uses the following variables to achieve its functionality:
    ./reencrypt-disks.sh
    ```
 
-Ensure that you comprehend the actions that the script will execute on your resources. Customize the script to suit your specific needs before running it. A comprehensive understanding of the operations performed by the script is crucial to prevent any undesired outcomes.
-
-Feel free to adjust the links and instructions to match your particular requirements and environment.
+Ensure that you comprehend the actions that the script will execute on your resources. Customize the script to suit your specific needs before running it. Feel free to adjust the links and instructions to match your particular requirements and environment.
