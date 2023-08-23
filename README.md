@@ -45,4 +45,4 @@ The script uses the following variables to achieve its functionality:
    ./gcp-cmek-rotation.sh
    ```
 
-Ensure that you comprehend the actions that the script will execute on your resources. Customize the script to suit your specific needs before running it. Feel free to adjust the links and instructions to match your particular requirements and environment.
+Ensure that you understand the actions that the script will execute on your resources. Customize the script to suit your specific needs before running it. Feel free to adjust the links and instructions to match your particular requirements and environment.
